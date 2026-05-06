@@ -16,7 +16,9 @@
 `Python` `Machine Learning` `Pandas` `Scikit-learn` `HTML` `CSS` `JavaScript` `Git`
 
 **📊 GitHub Stats:**
-![Monika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monika200111&show_icons=true&theme=tokyonight)
+[Monika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monika200111&show_icons=true&theme=tokyonight&hide_border=true)
+
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Monika200111&layout=compact&theme=tokyonight&hide_border=true)
 
 **📫 How to reach me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/monika-sharma-2a2642263/)
